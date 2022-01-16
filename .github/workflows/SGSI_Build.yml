@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build:https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.2/cn/20211202045911/25302566/update.zip
     runs-on: ubuntu-20.04
 
     steps:
